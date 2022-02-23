@@ -4,18 +4,23 @@
     background-color: blue;
 }
 
-.quem-somos {
+/* .quem-somos {
     background-color: aquamarine;
-}
+    padding-bottom: 100%;
+} */
 
-.redes-sociais{
+/* .redes-sociais{
     background-color: azure;
-}
+} */
 
-.integrantes {
+/* .integrantes {
     background-color: beige;
-}
+} */
 
 .social {
     font-size: 140px;
+}
+
+.integrante {
+    padding-bottom: 25px;
 }
