@@ -6,21 +6,35 @@
 
 /* .quem-somos {
     background-color: aquamarine;
-    padding-bottom: 100%;
 } */
 
-/* .redes-sociais{
-    background-color: azure;
-} */
-
-/* .integrantes {
+.integrantes {
     background-color: beige;
-} */
+    padding-top: 0px;
+}
 
 .social {
     font-size: 140px;
 }
 
 .integrante {
-    padding-bottom: 25px;
+    /* background-color: aquamarine; */
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+
+.margens {
+    /* background-color: aqua; */
+    padding-top: 0px;
+    padding-bottom: 50px;
+}
+
+.social-media {
+    padding-bottom: 10px;
+    border-bottom: 2px groove;
+    /* border-style: groove; */
+}
+
+.margen-top {
+    padding-top: 20px;
 }
